@@ -1,4 +1,4 @@
-
+# Map e Reduce
 ```javascript
 const dollarToday = 5.51;   // armazena o valor atual do dólar
 const dollarValues = [2.35, 11, 7.3, 27.5, 200];  // array de valores em dólar
