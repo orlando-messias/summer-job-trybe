@@ -12,4 +12,4 @@ for (let i = 0; i < dollarValues.length; i += 1) {
 console.log(realValues);  // [12.9485, 60.61, 40.223, 151.525, 1102]
 ```
 
-![test](images/map-using-anonymous.png)
+![test](images/map-using-anonymous2.png)
