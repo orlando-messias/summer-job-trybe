@@ -10,6 +10,6 @@ Conteúdo desenvolvido no estilo **Trybe** contendo as seções:
 - Exercícios Bônus
 - Recursos Adicionais
 
-:rocket:  
-**#vqv**
+:rocket: :heavy_check_mark:  
+**#vqv**  
 **#gotrybe**
