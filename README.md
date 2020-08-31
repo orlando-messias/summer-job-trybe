@@ -1,4 +1,4 @@
-### Desafio prático do Programa Student Summer Job da Trybe.
+### Desafio prático do Programa Student Summer Job da Trybe :rocket:
 **Tema:** As Higher Order Functions Map e Reduce
 
 Conteúdo desenvolvido no estilo **Trybe** contendo as seções:
@@ -9,3 +9,6 @@ Conteúdo desenvolvido no estilo **Trybe** contendo as seções:
 - Exercícios Principais
 - Exercícios Bônus
 - Recursos Adicionais
+
+#vqv  
+#gotrybe
