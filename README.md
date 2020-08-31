@@ -10,5 +10,6 @@ Conteúdo desenvolvido no estilo **Trybe** contendo as seções:
 - Exercícios Bônus
 - Recursos Adicionais
 
+:hash:  
 #vqv  
 #gotrybe
