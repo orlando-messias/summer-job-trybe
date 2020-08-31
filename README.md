@@ -1,5 +1,5 @@
 ## Desafio prático do Programa Student Summer Job da Trybe :rocket:
-**Tema:** As Higher Order Functions Map e Reduce
+#### Tema: As Higher Order Functions Map e Reduce
 
 Conteúdo desenvolvido no estilo **Trybe** contendo as seções:  
 :heavy_check_mark: O que vamos aprender?  
