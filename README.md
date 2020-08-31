@@ -8,8 +8,8 @@ Conteúdo desenvolvido no estilo **Trybe** contendo as seções:
 - Conteúdos
 - Exercícios Principais
 - Exercícios Bônus
-- [ ] Recursos Adicionais
+- Recursos Adicionais
 
-:hash:  
-#vqv  
-#gotrybe
+:rocket:  
+**#vqv**
+**#gotrybe**
