@@ -1,5 +1,5 @@
-## Desafio prático do Programa Student Summer Job da Trybe :orange_book:
-#### Tema: As Higher Order Functions Map e Reduce
+# Desafio prático do Programa Student Summer Job da Trybe :orange_book:
+### Tema: As Higher Order Functions Map e Reduce
 
 Conteúdo desenvolvido no estilo **Trybe** contendo as seções:
 - O que vamos aprender?
